@@ -95,4 +95,5 @@ Top-Selling Categories: The most frequently purchased products are daily essenti
 These insights suggest that Blinkit should continue focusing on daily essentials and Tier 3 markets, while also leveraging the health-conscious trend by expanding low-fat product offerings.
 
 # 6. Reference -- DashBoard
-<img width="1574" height="724" alt="image" src="https://github.com/user-attachments/assets/6960573e-b698-47fe-82fc-a1d42e033605" />
+<img width="1574" height="721" alt="image" src="https://github.com/user-attachments/assets/cc83166f-a316-4f22-b0c9-c748177b8ca1" />
+
